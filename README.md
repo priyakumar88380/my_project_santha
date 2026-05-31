@@ -11,7 +11,7 @@ Moving from reactive healthcare operations to proactive care is critical for imp
 * **Environment:** Google Colab
 
 ## 💻 Run the Interactive Code Live
-👉 [Click here to open and run this notebook live in Google Colab](PASTE_YOUR_COLAB_LINK_HERE)
+👉[ [Click here to open and run this notebook live in Google Colab](PASTE_YOUR_COLAB_LINK_HERE)](https://colab.research.google.com/gist/priyakumar88380/56b7807b27ac585edf16024666490187/dia-homework-finished.ipynb)
 
 ## 📊 Key Steps Completed
 1. **Data Cleaning:** Handled missing data entries and normalized patient physiological features.
